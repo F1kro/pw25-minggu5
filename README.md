@@ -13,8 +13,8 @@ KELAS  : D
   >> Screenshoot dari Setiap Menu <<
 </h3>
 
-<img src="landing.png">
-<img src="login.png">
-<img src="register.png">
-<img src="porfoliohp.png">
-<img src="portlaptop.png">
+<img src="./assets/img/landing.png">
+<img src="./assets/img/login.png">
+<img src="./assets/img/register.png">
+<img src="./assets/img/porfoliohp.png">
+<img src="./assets/img/portlaptop.png">
