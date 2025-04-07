@@ -1,5 +1,5 @@
 <h2>
-Ini adalah Website Sederhana yang memuat Template Responsive dari tag Table dan Form menggunakan  Html Css dan JS , 
+Ini adalah Website landing page sederhana menggunakan  Html Css dan JS , 
 guna memenuhi tugas di pertemuan  week 5 mata Kuliah pemrograman web Universitas Mataram , Teknik Informatika. <br/>
 Nama : Fiqro Najiah
 NIM  : F1D02310051
